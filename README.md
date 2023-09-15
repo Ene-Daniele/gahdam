@@ -1,7 +1,7 @@
 # Instructions for my ~~braindead~~ colleagues
 
 <h4> Creating a file: <h4> 
-- Include a top comment with the date, hour, and your name, followed by a description
++ Include a top comment with the date, hour, and your name, followed by a description
 
 ex from close.py:
 ```py
