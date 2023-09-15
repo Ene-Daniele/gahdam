@@ -10,3 +10,5 @@ ex from close.py:
 Script used for closing operations
 """
 ```
+
+- Add stuff as you go it doesnt really matter its just a school project lmao
