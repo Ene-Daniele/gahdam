@@ -1,2 +1,11 @@
-# gahdam
-ZAMN DANIEL ar ar arar ar ara r
+# Instructions for my ~~braindead~~ colleagues
+
+- Creating a file:
+> Include a top comment with the date, hour, and your name
+ex:
+```py
+"""
+15/09/2023 10:40am ENE DANIELE
+Script used for closing operations
+"""
+```

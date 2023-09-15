@@ -1,1 +1,0 @@
-input("Click to close")
