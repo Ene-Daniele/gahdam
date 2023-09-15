@@ -1,0 +1,1 @@
+input("Click to close")
