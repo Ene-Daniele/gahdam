@@ -1,4 +1,6 @@
-def lmao():
-    print("my balls itch")
+"""
+15/09/2023 10:50am ENE DANIELE
+Main file
+"""
 
-lmao()
+print("\\\\\\ COLOMBETTI, ENE, KRIS, ETC IDRC: REGISTRO GALVANI \\\\\\")
