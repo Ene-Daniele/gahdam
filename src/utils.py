@@ -17,3 +17,4 @@ def compare(a, b):
 def open_image(path):
     path = f"../images/{path}"
     #? find a lib or something to open images as rgb stuff idfk i cant be fucked rn
+    
