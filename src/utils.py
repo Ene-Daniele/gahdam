@@ -13,3 +13,7 @@ def compare(a, b):
     result = 0
     #? sum the absolute value of the differences of every cell in a and b, both matrices
     return result
+
+def open_image(path):
+    path = f"../images/{path}"
+    #? find a lib or something to open images as rgb stuff idfk i cant be fucked rn

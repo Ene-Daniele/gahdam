@@ -9,5 +9,6 @@ import os
 print("Closing operations starting...")
 
 #? os.remove("images/idle.jpg")
+#? TRY os.remove("images/frame.jpg")
 
-input("Click to close")
+input("Finished, press [ENTER] to close")
