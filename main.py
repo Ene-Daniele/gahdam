@@ -13,6 +13,7 @@ idle = matrix("PICTURE GOES HERE")
 tolerance = 0
 
 while True:
+    sleep(0.1)
     #? TAKE A PICTURE AS images/frame.jpg
     if compare(idle, matrix("frame")) > tolerance:
         #? hit the quan
