@@ -12,7 +12,7 @@ input("Press [ENTER] to take the idle picture, make sure nobody is in the frame"
 # camera = PiCamera()
 # camera.rotation = 180
 # camera.capture('../images/idle.jpg')
-idle = open_image("idle")  # IDLE PICTURE FROM CAMERA
+idle = open_image("idle")
 tolerance = 0  # todo: figure out the right value here when you have something going on
 
 while True:
