@@ -17,11 +17,14 @@ Script used for closing operations
 
 `close.py` closing operations
 <h3>images/</h3>
-- `idle.jpg` still image with nobody in frame
-- `frame.jpg` image compared with idle 10 times a second
+
++ `idle.jpg` still image with nobody in frame
++ `frame.jpg` image compared with idle 10 times a second
+
 > This should contain 2 files, `idle.jpg` and `frame.jpg` which at the end of the program are deleted, the reason they are in a folder is to prevent shenanigans where i end up with thousands of files in the main folder
 
 <h3>src/</h3>
-- `main.py` main entry point
-- `utils.py` utility functions
+
++ `main.py` main entry point
++ `utils.py` utility functions
 
