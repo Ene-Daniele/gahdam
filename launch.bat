@@ -1,3 +1,3 @@
 cd src
 py main.py
-py close.py
+py ../close.py
